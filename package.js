@@ -3,7 +3,7 @@ var path = Npm.require('path');
 
 Package.describe({
   "summary": "Render your app before the DDP connection even comes alive - magic?",
-  "version": "2.16.1",
+  "version": "2.16.2",
   "git": "https://github.com/theosp/fast-render",
   "name": "meteorspark:fast-render"
 });

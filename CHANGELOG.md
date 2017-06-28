@@ -1,5 +1,9 @@
 # Change Log
 
+### v2.16.2
+
+* Make localstorage an explicit dependency
+
 ### v2.16.1
 
 * Fix a regression in Meteor v1.5 causing fast-render to break Meteor accounts
