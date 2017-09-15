@@ -1,5 +1,9 @@
 # Change Log
 
+### v2.16.3
+
+* Fibers.current._meteor_dynamics should be a list, fixes https://github.com/abecks/meteor-fast-render/issues/4
+
 ### v2.16.2
 
 * Make localstorage an explicit dependency
