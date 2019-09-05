@@ -29,7 +29,6 @@ local-test:meteorspark:fast-render@2.16.3
 localstorage@1.1.1
 logging@1.1.17
 meteor@1.7.1
-meteorhacks:inject-data@2.0.0
 meteorhacks:meteorx@1.4.1
 meteorhacks:picker@1.0.3
 meteorspark:fast-render@2.16.3
